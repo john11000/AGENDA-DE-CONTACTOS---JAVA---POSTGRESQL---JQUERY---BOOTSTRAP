@@ -56,11 +56,9 @@ ResourceBundle resource;
                 <div class="row justify-content-center">
                     <div class="col-lg-6">
                         <h2><%= hecha %></h2>
-                        <strong>Emanuel Rios - 20192184134 </strong>
+                        <strong>Jhon anderson puentes hernandez </strong>
                         <hr>
-                         <strong>Juan  Romero - 20201188193 </strong>
-                         <hr>
-                          <strong>Juan mosquera - 20192183764  </strong>
+                      
                 <hr>
                          
                         <p class="mb-0 my-5 personalizada" style="font">Estudiantes de la carrera Ingenieria de Software de la Universidad Surcolombiana de la ciudad de Neiva, en su materia de programacion web.</p>
